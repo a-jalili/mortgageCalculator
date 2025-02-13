@@ -42,3 +42,6 @@ bin/
 # Maven and Gradle directories
 target/
 build/
+
+# Ignore all .idea files
+.idea/*
